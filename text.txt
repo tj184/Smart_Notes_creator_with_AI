@@ -1,0 +1,33 @@
+**Data Formatting and Summary**
+
+The provided data appears to be an excerpt from Investopedia's article on digital marketing. Here is the formatted data:
+
+**What Is Digital Marketing?**
+
+* Definition: A wide range of techniques and media used by companies to promote their products and services to potential consumers.
+* Purpose: To improve market share, increase brand awareness, and drive sales.
+
+**How It Works**
+
+* Companies use various channels, including email marketing, search engines, social media, and paid advertising.
+* Digital marketing campaigns aim to reach specific audiences and deliver targeted messages.
+
+**Types of Digital Marketing Channels**
+
+1. **Social Media Marketing**
+	* Primary goals: Build brand awareness and establish trust.
+	* Examples: Promoted posts, tweets, and influencer marketing.
+2. **Email Marketing**
+	* Collecting names for email lists to convert leads into customers.
+3. **Paid Advertising (PPC)**
+	* Reach audiences on news and other websites through paid ads on Google, Bing, LinkedIn, X (formerly Twitter), Pinterest, Facebook, and more.
+4. **Affiliate Marketing**
+	* Companies partner with influencers to promote their products and earn a commission for each sale or lead generated.
+5. **Video Marketing**
+	* Use video marketing platforms like YouTube, Facebook Videos, Instagram, and TikTok to run video marketing campaigns.
+
+**Measuring Success in Digital Marketing**
+
+* Track metrics such as website traffic, social media engagement, email open rates, conversion rates, and return on investment (ROI).
+
+The summary highlights the key points of digital marketing, including its definition, purpose, and various channels used. It also emphasizes the importance of measuring success in digital marketing efforts.
