@@ -20,7 +20,7 @@ def transcribe_audio(mp3_path):
         audio_data = recognizer.record(source)
 
     
-    wit_ai_key = "VQSWIZNZBFF232MD32PTV6M76XSFMBL3"  
+    wit_ai_key = "VQSWIZNZBxxxxxxxxxxxxxxxxxxx"  
     try:
         text = recognizer.recognize_wit(audio_data, key=wit_ai_key)
         return text
